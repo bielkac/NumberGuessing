@@ -13,6 +13,6 @@ public class Main {
         for(int i = 0; i <30; i++) {
         chosedNumber = (int) (Math.random()*2);
 
-        System.out.println(chosedNumber);
+            System.out.println(chosedNumber);
     }
 }}
