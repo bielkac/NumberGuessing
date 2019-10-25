@@ -13,6 +13,11 @@ public class Main {
         for(int i = 0; i <30; i++) {
         chosedNumber = (int) (Math.random()*2);
 
+         do {
+             System.out.println("inside of loop");
+         }while (6>10);
+
             System.out.println(chosedNumber);
+            
     }
 }}
