@@ -21,7 +21,7 @@ public class Main {
             } while (answer.equals("yes"));
 
             System.out.println(chosedNumber);
-            cnkdcjndcjjfljwkjwS
+            fhekfwnfjnewkjfcbjwvc
 
         }
     }
