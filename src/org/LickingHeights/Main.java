@@ -11,7 +11,7 @@ public class Main {
         int chosedNumber;
 
         for (int h = 4; h < 30; h++) {
-            chosedNumber = (int) (Math.random() * 2);
+            chosedNumber = (int) (Math.random() *2);
 
             do {
 
