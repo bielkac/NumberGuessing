@@ -16,7 +16,7 @@ public class Main {
             do {
 
 
-                System.out.println("Do you want to continue");
+                System.out.println(" Do you want to continue?");
                 answer = keyboard.nextLine().toLowerCase();
             } while (answer.equals("yes"));
 
